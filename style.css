@@ -1,0 +1,223 @@
+@import url(https://db.onlinewebfonts.com/c/275de2221d9f0c4c9257d17f5a1e4006?family=Avenir+Black);
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#button {
+    transform: translate(1400px,-15px);
+}
+
+#font {
+    color: #fff;
+    font-size: 16px;
+    font-family: "Avenir Black";
+    font-weight: 400;
+}
+
+#font:hover {
+    color: #82E600;
+}
+
+.pic1 {
+    background-image: url(images/930-490.webp);
+    background-size: cover;
+    background-position: 0;
+    height: 300px;
+    width: 600px;
+    border-radius: 15px;
+    margin-left: 100px;
+}
+
+.pic2 {
+    background-image: url(images/VCG211288602089.webp);
+    background-size: cover;
+    background-position: 0;
+    height: 300px;
+    width: 600px;
+    border-radius: 15px;
+}
+
+.pic3 {
+    background-image: url(images/ad-power.webp);
+    background-size: cover;
+    background-position: 0;
+    height: 300px;
+    width: 600px;
+    border-radius: 15px;
+    margin-left: 100px;
+}
+
+.pic4 {
+    background-image: url(images/20231127-105044.webp);
+    background-size: cover;
+    background-position: 0;
+    height: 300px;
+    width: 600px;
+    border-radius: 15px;
+}
+
+.photo {
+    background-image: url(images/Oraimo1.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+.bk-color {
+    background-color: #f8f8f8; 
+}
+
+.card-body {
+    overflow: hidden;
+}
+
+.card-title {
+    white-space: nowrap;
+    transition: 1s;
+}
+
+.card-title:hover  {
+    transform: translateX(-80%);
+}
+
+.list-group-item {
+    font-size: 12px;
+}
+
+.photo2 {
+    background-color: #f8f8f8; 
+}
+
+.w200mili {
+    background-image: url(images/banner-wide\ 200milii-l.webp);
+    background-size: contain;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.hold-all-sections {
+    background-color: #f5f6f6;
+}
+
+.one1 {
+    background-image: url(images/photo1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+.two2 {
+    background-image: url(images/photo2.png);
+    background-size: contain;
+    border-radius: 10px;
+}
+
+.three3 {
+    background-image: url(images/photo3.png);
+    background-size: cover;
+    background-position: 0;
+    border-radius: 10px;
+}
+
+.four4 {
+    background-image: url(images/photo4.png);
+    background-size: cover;
+    background-position: 0;
+    border-radius: 10px;
+}
+
+.five5 {
+    background-image: url(images/photo5.png);
+    background-size: cover;
+    background-position: 0;
+    border-radius: 10px;
+}
+
+.six6 {
+    background-image: url(images/photo6.png);
+    background-size: cover;
+    background-position: 0;
+    border-radius: 10px;
+}
+
+.seven7 {
+    background-image: url(images/o-club-ng-l.webp);
+    background-size: cover;
+    background-position: 0;
+    border-radius: 10px;
+}
+
+h6 {
+    font-size: 16px;
+    font-family: "Avenir Black";
+    font-weight: 400;
+    padding: 20px;
+}
+
+.oria {
+    font-size: 36px;
+    font-family: "Avenir Black";
+    font-weight: 400;
+    padding: 20px;
+}
+
+.Follow {
+    width: 100px;
+    background-color: black;
+    font-weight: 500;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.thick {
+    font-weight: bolder;
+}
+
+.new {
+    font-size: 24px;
+    font-family: "Avenir Black";
+    font-weight: 400;
+    padding: 20px;
+}
+
+.input {
+    width: 800px;
+    padding: 15px;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.notification {
+    border-radius: 0px 20px 20px 0px;
+    width: 60px;
+}
+
+.get {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.us {
+    font-weight: 600;
+    background-color: #191919;
+}
+
+.stage {
+    height: 400px;
+    width: 300px;
+}
+
+.ash {
+    color: #B3B3B3;
+}
+
+.last-div {
+    color: #191919;
+}
+
+.word {
+    font-size: 12px;
+    color: #fff;
+}
